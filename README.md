@@ -1,7 +1,7 @@
 <h1 align="center">Solaris</h1>
 
 <p align="center">
-  <b>Fullscreen Theme for Playnite</b>
+  <b>Fullscreen Theme for Playnite based on <a href="https://github.com/zeroantix/ReMiX">ReMiX</a></b>
 </p>
 
 <p align="Center">
