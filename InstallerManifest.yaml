@@ -17,7 +17,7 @@ Packages:
       - Fixed an issue where LT/R2 buttons did not work correctly in the game list
       - Fixed an issue where scrolling FilterPresets from the first icon to the left would not jump to the last item, stopping incorrectly in the middle of the list
       
-      CHANGES
+      CHANGESS
       - General design improvements
       - General animation enhancements
       - Reorganized the Theme Options screen
