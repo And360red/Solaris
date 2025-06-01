@@ -7,7 +7,7 @@ Packages:
     Changelog:
       - First release
   - Version: 1.1
-    RequiredApiVersion: 2.7.0
+    RequiredApiVersion: 2.6.0
     ReleaseDate: 2024-06-01
     PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.1/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_1.pthm
     Changelog:
@@ -30,31 +30,31 @@ Packages:
       - New Install Size icon in the game details screen
       - New button to expand the game description in details view 
       - 28 new customization options added to Theme Options
-        - Background Texture (Allows selecting 4 different background textures)
-        - Support for 16:10 (Experimental design adjustments for 16:10 resolution)
-        - Home Screen Scale (Resizes the home screen)
-        - Details Screen Scale (Resizes the details screen)
-        - Performance Mode (Disables certain effects to improve game list performance)
-        - Selection Animation (Enables/disables zoom animation on cover selection)
-        - Mouse Animation (Enables/disables hover animation on covers)
-        - Download Button (Shows/hides the download button on the cover)
-        - Two-Line Game List (Supports 2 lines in horizontal mode; only for square covers)
-        - Vertical Cover 3:4 (Support for 3:4 IGDB-style covers)
-        - Vertical Cover 2:3 (Support for 2:3 Steam-style covers)
-        - Corner Radius (Adjusts the roundness of the cover corners)
-        - Selection Corner Radius (Adjusts the roundness of the selection highlight)
-        - Fixed SuccessStory (Panel Always shows the panel even without achievements)
-        - Fixed Bottom Bar (Bottom bar now behaves the same way as the top bar)
-        - Swap Trailer for MicroTrailer (Shows microtrailer preview in horizontal mode; only for downloaded videos)
-        - Drop Shadow (Adds a subtle shadow to text and panels)
-        - Background Shadow (Adjusts the opacity of the left background shadow behind the logo)
-        - Blur on Details Panel (Applies blur behind the details panel; optimized for 16:9 wallpapers)
-        - Blur Amount (Adjusts the overall background blur level)
-        - Blur Amount in the Details Panel (Adjusts the blur level specifically in the details panel)
-        - Fullscreen Trailer (Displays the trailer in fullscreen as the background of the details panel)
-        - Game Details Background Opacity (Adjusts opacity behind game details; for 16:9 wallpapers)
-        - Disable Trailer (Disables trailer playback in the details view)
-        - Icon Next to Title (Shows icon next to the game title in details view)
-        - Swap CommunityScore for CriticScore (Changes score display in details view)
-        - Old Description View (Restores the description style from version 1.0)
-        - Increase Description Font Size (Increases font size in game description)
+      - Background Texture (Allows selecting 4 different background textures)
+      - Support for 16:10 (Experimental design adjustments for 16:10 resolution)
+      - Home Screen Scale (Resizes the home screen)
+      - Details Screen Scale (Resizes the details screen)
+      - Performance Mode (Disables certain effects to improve game list performance)
+      - Selection Animation (Enables/disables zoom animation on cover selection)
+      - Mouse Animation (Enables/disables hover animation on covers)
+      - Download Button (Shows/hides the download button on the cover)
+      - Two-Line Game List (Supports 2 lines in horizontal mode; only for square covers)
+      - Vertical Cover 3:4 (Support for 3:4 IGDB-style covers)
+      - Vertical Cover 2:3 (Support for 2:3 Steam-style covers)
+      - Corner Radius (Adjusts the roundness of the cover corners)
+      - Selection Corner Radius (Adjusts the roundness of the selection highlight)
+      - Fixed SuccessStory (Panel Always shows the panel even without achievements)
+      - Fixed Bottom Bar (Bottom bar now behaves the same way as the top bar)
+      - Swap Trailer for MicroTrailer (Shows microtrailer preview in horizontal mode; only for downloaded videos)
+      - Drop Shadow (Adds a subtle shadow to text and panels)
+      - Background Shadow (Adjusts the opacity of the left background shadow behind the logo)
+      - Blur on Details Panel (Applies blur behind the details panel; optimized for 16:9 wallpapers)
+      - Blur Amount (Adjusts the overall background blur level)
+      - Blur Amount in the Details Panel (Adjusts the blur level specifically in the details panel)
+      - Fullscreen Trailer (Displays the trailer in fullscreen as the background of the details panel)
+      - Game Details Background Opacity (Adjusts opacity behind game details; for 16:9 wallpapers)
+      - Disable Trailer (Disables trailer playback in the details view)
+      - Icon Next to Title (Shows icon next to the game title in details view)
+      - Swap CommunityScore for CriticScore (Changes score display in details view)
+      - Old Description View (Restores the description style from version 1.0)
+      - Increase Description Font Size (Increases font size in game description)
