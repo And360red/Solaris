@@ -11,12 +11,12 @@ Packages:
     ReleaseDate: 2024-06-01
     PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.1/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_1.pthm
     Changelog:
-      FIXED BUGS
+      - FIXED BUGS
       - Fixed an issue where the trailer would keep playing after exiting the Theme Options screen
       - Fixed missing trailer audio in vertical mode
       - Fixed an issue where LT/R2 buttons did not work correctly in the game list
       - Fixed an issue where scrolling FilterPresets from the first icon to the left would not jump to the last item, stopping incorrectly in the middle of the list
-      CHANGES
+      - CHANGES
       - General design improvements
       - General animation enhancements
       - Reorganized the Theme Options screen
@@ -28,11 +28,11 @@ Packages:
       - Filter and search panels (vertical mode) moved to the top bar
       - Platform/library icon removed from game covers
       - Favorite icon moved to the right panel
-      NEW FEATURES
+      - NEW FEATURES
       - Support for the Now Playing extension (replacing BackToGame)
       - New Install Size icon in the game details screen
       - New button to expand the game description in details view 
-      - 28 new customization options added to Theme Options
+      - 28 NEW CUSTOMIZATION OPTIONS ADDED TO THEME OPTIONS
       - Background Texture (Allows selecting 4 different background textures)
       - Support for 16:10 (Experimental design adjustments for 16:10 resolution)
       - Home Screen Scale (Resizes the home screen)
