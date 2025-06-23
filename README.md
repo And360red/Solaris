@@ -29,7 +29,7 @@
 
 | Recommended  | Optional   | Required   |
 |------------|------------|------------|
-| DuplicateHider   | BackToGame   | ExtraMetadataLoader   |
+| DuplicateHider   | NowPlaying   | ExtraMetadataLoader   |
 | HowLongToBeat   | CheckLocalizations   | ExtraMetadataLoader Fullscreen Helper   |
 | LibraryManagement   | Playnite Sounds Mod   | Theme Options   |
 | SuccessStory   |    |    |
