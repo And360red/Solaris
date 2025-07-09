@@ -69,7 +69,6 @@ Packages:
       - 'Fixed: Missing text in the theme configuration message'
       - 'Fixed: Focus issue in the filters panel'
       - 'Added: Message with the solution for the ThemeOptions problem'
-
   - Version: 1.1.2
     RequiredApiVersion: 2.8.0
     ReleaseDate: 2025-07-09
