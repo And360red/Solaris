@@ -69,3 +69,22 @@ Packages:
       - 'Fixed: Missing text in the theme configuration message'
       - 'Fixed: Focus issue in the filters panel'
       - 'Added: Message with the solution for the ThemeOptions problem'
+
+  - Version: 1.1.2
+    RequiredApiVersion: 2.8.0
+    ReleaseDate: 2025-07-09
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.1.2/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_1_2.pthm
+    Changelog:
+      - 'Added: 3 Playnite icons (Monochromatic, Desktop Mode, and Fullscreen)'
+      - 'Fixed: Removed the dotted focus outline from the game list'
+      - 'Fixed: Initial selection focus in the game list'
+      - 'NowPlaying: Added "Back to Game" and "Close Game" buttons to "GameStatus", along with game runtime counter'
+      - 'NowPlaying: Added game runtime counter to game details'
+      - 'NowPlaying: When a game is running, the Play button now opens the "Now Playing" dialog box'
+      - 'NowPlaying: A new button is shown in game details with Playnite’s default Play function'
+      - 'NowPlaying: Added a button to the topbar that opens the "Now Playing" dialog box'
+      - 'NowPlaying: Added custom border and running indicator on the cover of the currently running game'
+      - 'SteamNewsAndPlayersViewer: Added in-game player count icon to game details'
+      - 'ThemeOptions: Option to hide topbar username'
+      - 'ThemeOptions: New section to disable main menu items like: Username, Profile Title, Help, Ko-fi, and Patreon buttons'
+      - 'Updated: Theme Options warning message'
