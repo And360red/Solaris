@@ -27,12 +27,12 @@
 ⚠️ _The [ThemeOptions](https://github.com/ashpynov/ThemeOptions) plugin is mandatory for the proper functionality of the theme._
 <br>
 
-| Recommended  | Optional   | Required   |
+| Recommended | Optional | Required |
 |------------|------------|------------|
-| DuplicateHider   | NowPlaying   | ExtraMetadataLoader   |
-| HowLongToBeat   | CheckLocalizations   | ExtraMetadataLoader Fullscreen Helper   |
-| LibraryManagement   | Playnite Sounds Mod   | Theme Options   |
-| SuccessStory   |    |    |
+| [DuplicateHider](https://playnite.link/addons.html#felixkmh_DuplicateHider_Plugin) | [NowPlaying](https://playnite.link/addons.html#NowPlaying_db4e7ade-57fb-426c-8392-60e2347a0209) | [ExtraMetadataLoader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429) |
+| [HowLongToBeat](https://playnite.link/addons.html#playnite-howlongtobeat-plugin) | [CheckLocalizations](https://playnite.link/addons.html#playnite-checklocalizations-plugin) | [ExtraMetadataLoader Fullscreen Helper](https://playnite.link/addons.html#Extra_Metadata_tools_2e0349ed-6da2-4095-9457-4c9fb544551e) |
+| [LibraryManagement](https://playnite.link/addons.html#playnite-librarymanagement-plugin) | [Playnite Sounds Mod](https://playnite.link/addons.html#Playnite.Sounds.Mod.baf1744c-72f6-4bc1-92cc-474403b279fb) | [Theme Options](https://playnite.link/addons.html#ThemeOptions_904cbf3b-573f-48f8-9642-0a09d05c64ef) |
+| [SuccessStory](https://playnite.link/addons.html#playnite-successstory-plugin) |[Steam News and Players Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d) | |
 
 
 
