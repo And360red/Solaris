@@ -45,3 +45,7 @@
 <p align="Center">
   <img align="top" src="https://github.com/And360red/Solaris/blob/main/Images/plugins03.png" alt="Plugins Game Details"/>
 </p>
+
+## License
+This theme is released under the MIT License.
+See the LICENSE file for details.
