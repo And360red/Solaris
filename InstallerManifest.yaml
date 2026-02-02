@@ -170,3 +170,9 @@ Packages:
       - 'Theme Options/Removed: Game Details background opacity'
       - 'Theme Options/Removed: Old description view'
       - 'Info: The main menu now supports up to 13 options. You can disable the Help, Patreon, and Ko-fi buttons and add more buttons via “Settings/Menus”.'
+  - Version: 1.2.1
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-02-02
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.1/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_1.pthm
+    Changelog:
+      - 'Fixed: Focus issue when launching Playnite with only the intro enabled.'
