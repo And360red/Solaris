@@ -176,3 +176,20 @@ Packages:
     PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.1/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_1.pthm
     Changelog:
       - 'Fixed: Focus issue when launching Playnite with only the intro enabled.'
+  - Version: 1.2.2
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-02-14
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.2/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_2.pthm
+    Changelog:
+      - 'Fixed: Missing note for the “US Date & Time Format” option in Theme Options'
+      - 'Fixed: Filter name displaying instead of Library/Platform when the icon is missing'
+      - 'Fixed: Incorrect buttons on Lock Screen and SuccessStory View when the “Invert X/A main view button binding” option is enabled'
+      - 'Fixed: Trailer pause button in Game Details triggering Stop instead of Pause'
+      - 'Added: Filter name text in the top bar when the icon is missing'
+      - 'Added: Chinese (Simplified) localization by 邓敬楠 (liouyesu)'
+      - 'Added: 3 new avatars and 1 profile background (Genshin Impact)'
+      - 'Added: New filter icons (ATLauncher, Currently Playing, DLsite, Game Jolt, GamersGate, GameVault, Hikari Field, HoYoPlay, HoYoverse, Meta, Microsoft Store, Moonlight, Pokémon, PlayStation 1, RobotCache, Viveport)'
+      - 'ThemeOptions/New: 16:9 background image shadow intensity'
+      - 'ThemeOptions/New: 16:9 background image shadow intensity (game details)'
+      - 'ThemeOptions/New: Show library and platform icons'
+      - 'ThemeOptions/New: Show filter presets icons (Enable/Disable Bottom Bar icons)'
