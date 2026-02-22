@@ -193,3 +193,15 @@ Packages:
       - 'ThemeOptions/New: 16:9 background image shadow intensity (game details)'
       - 'ThemeOptions/New: Show library and platform icons'
       - 'ThemeOptions/New: Show filter presets icons (Enable/Disable Bottom Bar icons)'
+    - Version: 1.2.3
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-02-22
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.3/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_3.pthm
+    Changelog:
+      - 'Fixed: Search box text alignment'
+      - 'Theme Options/New: Prioritize micro trailers (vertical layout)'
+      - 'Theme Options/New: Custom avatar'
+      - 'Theme Options/New: Custom profile background'
+      - 'Theme Options/New: Custom intro video'
+      - 'Theme Options/New: Custom lock screen video'
+      - 'Update: Localizations (Brazilian Portuguese and Simplified Chinese)'
