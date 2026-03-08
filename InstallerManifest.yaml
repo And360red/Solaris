@@ -205,3 +205,20 @@ Packages:
       - 'Theme Options/New: Custom intro video'
       - 'Theme Options/New: Custom lock screen video'
       - 'Update: Localizations (Brazilian Portuguese and Simplified Chinese)'
+  - Version: 1.2.4
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-03-08
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.4/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_4.pthm
+    Changelog:
+      - 'Added: Screen containing all game information accessible from game details'
+      - 'Fixed: Platform and library icons display'
+      - 'Fixed: Bottom shadow appearing in the vertical layout'
+      - 'Modded: Disabled image display in the description on the vertical layout'
+      - 'Modded: Extended Hero background image on the Achievements screen'
+      - 'Modded: Images hidden from the game description in the vertical layout panel'
+      - 'ThemeOptions/New: Hide images in game description (Game Details)'
+      - 'ThemeOptions/New: Show description on the game info screen (Game Details)'
+      - 'ThemeOptions/New: Expand trailer (Horizontal Layout)'
+      - 'ThemeOptions/New: Hide logo when the trailer is playing (Horizontal Layout)'
+      - 'ThemeOptions/Re-added: Blur details panel (Game Details)'
+      - 'ThemeOptions/Re-added: Darken details panel (Game Details)'
