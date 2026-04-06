@@ -222,3 +222,18 @@ Packages:
       - 'ThemeOptions/New: Hide logo when the trailer is playing (Horizontal Layout)'
       - 'ThemeOptions/Re-added: Blur details panel (Game Details)'
       - 'ThemeOptions/Re-added: Darken details panel (Game Details)'
+  - Version: 1.2.5
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-04-06
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.5/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_5.pthm
+    Changelog:
+      - 'Added: CheckDLC extension support'
+      - 'Added: ScreenshotsVisualizer extension support'
+      - 'Added: Button (B/O) to change game list view mode'
+      - 'Fixed: Visual focus on game description'
+      - 'Fixed: Black box artifact in lock screen video'
+      - 'Fixed: Minor bugs'
+      - 'Modded: Minor overall design tweaks'
+      - 'ThemeOptions/New: Left-side menu'
+      - 'ThemeOptions/New: Full height menu'
+      - 'ThemeOptions/New: Show/hide age rating (game details)'
