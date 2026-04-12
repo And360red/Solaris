@@ -25,20 +25,27 @@
 
 ## Supported plugins
 
-<div align="center">
-<br>
+### Required
+- [Theme Options](https://playnite.link/addons.html#ThemeOptions_904cbf3b-573f-48f8-9642-0a09d05c64ef)
 
-⚠️ _The [ThemeOptions]([https://github.com/ashpynov/ThemeOptions](https://playnite.link/addons.html#ThemeOptions_904cbf3b-573f-48f8-9642-0a09d05c64ef)) plugin is mandatory for the proper functionality of the theme._ ⚠️
-| Recommended | Optional | 
-|------------|------------|
-|[ExtraMetadataLoader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429) | [CheckLocalizations](https://playnite.link/addons.html#playnite-checklocalizations-plugin) 
-|[ExtraMetadataLoader Fullscreen Helper](https://playnite.link/addons.html#Extra_Metadata_tools_2e0349ed-6da2-4095-9457-4c9fb544551e) | [DuplicateHider](https://playnite.link/addons.html#felixkmh_DuplicateHider_Plugin)
-|[HowLongToBeat](https://playnite.link/addons.html#playnite-howlongtobeat-plugin) | [LibraryManagement](https://playnite.link/addons.html#playnite-librarymanagement-plugin)
-|[NowPlaying](https://playnite.link/addons.html#NowPlaying_db4e7ade-57fb-426c-8392-60e2347a0209) | [Playnite Sounds Mod](https://playnite.link/addons.html#Playnite.Sounds.Mod.baf1744c-72f6-4bc1-92cc-474403b279fb)
-|[SuccessStory](https://playnite.link/addons.html#playnite-successstory-plugin) | [Steam News and Players Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d)
-|[SuccessStory Fullscreen Helper](https://playnite.link/addons.html#SuccessStoryFullscreenHelper)
+### Recommended
+- [ExtraMetadataLoader](https://playnite.link/addons.html#ExtraMetadataLoader_705fdbca-e1fc-4004-b839-1d040b8b4429)
+- [ExtraMetadataLoader Fullscreen Helper](https://playnite.link/addons.html#Extra_Metadata_tools_2e0349ed-6da2-4095-9457-4c9fb544551e)
+- [HowLongToBeat](https://playnite.link/addons.html#playnite-howlongtobeat-plugin)
+- [NowPlaying](https://playnite.link/addons.html#NowPlaying_db4e7ade-57fb-426c-8392-60e2347a0209)
+- [SuccessStory](https://playnite.link/addons.html#playnite-successstory-plugin)
+- [SuccessStory Fullscreen Helper](https://playnite.link/addons.html#SuccessStoryFullscreenHelper)
+
+### Optional
+- [CheckDLC](https://playnite.link/addons.html#playnite-checkdlc-plugin)
+- [CheckLocalizations](https://playnite.link/addons.html#playnite-checklocalizations-plugin)
+- [DuplicateHider](https://playnite.link/addons.html#felixkmh_DuplicateHider_Plugin)
+- [LibraryManagement](https://playnite.link/addons.html#playnite-librarymanagement-plugin)
+- [ScreenshotsVisualizer](https://playnite.link/addons.html#playnite-screenshotsvisualizer-plugin)
+- [Steam News and Players Viewer](https://playnite.link/addons.html#NewsViewer_15e03ffe-90f6-4e8e-bd4d-94514777481d)
+- [UniPlaySong](https://playnite.link/addons.html#UniPlaySong.a1b2c3d4-e5f6-7890-abcd-ef1234567890)
+
 <br>
-</div>
 
 <p align="Center">
   <img align="top" src="https://github.com/And360red/Solaris/blob/main/Images/plugins01.png" alt="Plugins Horizontal Mode"/>
