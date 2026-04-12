@@ -237,3 +237,18 @@ Packages:
       - 'ThemeOptions/New: Left-side menu'
       - 'ThemeOptions/New: Full height menu'
       - 'ThemeOptions/New: Show/hide age rating (game details)'
+  - Version: 1.2.6
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-04-12
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.6/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_6.pthm
+    Changelog:
+      - 'Added: UniPlaySong extension support (replacing Playnite Sounds Mod)'
+      - 'Added: B/0 button hint on the guide button (horizontal layout only)'
+      - 'Fixed: Minor design adjustments'
+      - 'Fixed: Trailer fade in the main view'
+      - 'Fixed: Some icons not displaying on Windows 10'
+      - 'Fixed: Border appearing when "profile title" is empty'
+      - 'Fixed: Background not displaying in the "Twilight Blue" preset and incorrect color in the "Twilight" preset'
+      - 'ThemeOptions/New: Play full trailer (horizontal layout)'
+      - 'ThemeOptions/New: Left shadow on expanded trailer (horizontal layout)'
+      - 'ThemeOptions/New: Use background image as trailer fallback (vertical layout)'
