@@ -252,3 +252,17 @@ Packages:
       - 'ThemeOptions/New: Play full trailer (horizontal layout)'
       - 'ThemeOptions/New: Left shadow on expanded trailer (horizontal layout)'
       - 'ThemeOptions/New: Use background image as trailer fallback (vertical layout)'
+  - Version: 1.2.7
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-05-01
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.7/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_7.pthm
+    Changelog:
+      - 'Added: Support for the Playnite Achievements extension replacing SuccessStory (To continue viewing achievements, migrate to Playnite Achievements)'
+      - 'Changed: ComboBox design'
+      - 'Fixed: Minor alignment issues across the UI'
+      - 'Fixed: Bug preventing Playnite from entering sleep mode'
+      - 'ThemeOptions/New: Press (B/O) to toggle layout view'
+      - 'ThemeOptions/New: Show hidden achievements (Playnite Achievements)'
+      - 'ThemeOptions/New: Show total achievements by rarity (Playnite Achievements)'
+      - 'ThemeOptions/New: Replace badge icons with trophies (Playnite Achievements)'
+      - 'ThemeOptions/Removed: Blur hidden achievements (SuccessStory)'
