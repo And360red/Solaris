@@ -288,3 +288,18 @@ Packages:
       - 'Theme Options/New: Cover icons (Custom media path)'
       - 'Theme Options/New: Filter preset icons (Custom media path)'
       - 'Theme Options/New: Library/platform icons (Custom media path)'
+  - Version: 1.2.9
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-05-14
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.9/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_9.pthm
+    Changelog:
+      - 'Added: New "Top Bar" section in Theme Options'
+      - 'Fixed: Session Time display in the Now Playing dialog'
+      - 'Fixed: Missing icons: Epic, PC, TeknoParrot, Sega RingEdge, Nintendo Wii U'
+      - 'Fixed: Filter preset name not displaying when no icon is available in the filter preset bar'
+      - 'Theme Options/New: Show/hide username (Top Bar)'
+      - 'Theme Options/New: Show/hide layout switch button (Top Bar)'
+      - 'Theme Options/New: Show/hide achievements button (Top Bar)'
+      - 'Theme Options/New: Show/hide statistics button (Top Bar)'
+      - 'Theme Options/New: Show/hide network status icon (Top Bar)'
+      - 'Theme Options/New: Show/hide filtered games count icon (Top Bar)'
