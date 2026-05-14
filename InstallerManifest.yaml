@@ -266,3 +266,25 @@ Packages:
       - 'ThemeOptions/New: Show total achievements by rarity (Playnite Achievements)'
       - 'ThemeOptions/New: Replace badge icons with trophies (Playnite Achievements)'
       - 'ThemeOptions/Removed: Blur hidden achievements (SuccessStory)'
+  - Version: 1.2.8
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-05-13
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.2.8/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_2_8.pthm
+    Changelog:
+      - 'Added: MoData extension support'
+      - 'Added: Screenshot Utilities extension support'
+      - 'Added: Statistics screen displaying information about your library (requires AnikiHelper)'
+      - 'Added: Custom media path support for user-defined icons by specifying a folder path; icons are replaced automatically'
+      - 'Fixed: Slide and ComboBox click issues'
+      - 'Fixed: Duplicate battery icon while charging'
+      - 'Fixed: Text alignment on the game info screen'
+      - 'Fixed: Micro trailer alignment in vertical layout'
+      - 'Fixed: Micro trailer not displaying when "Use background image as trailer fallback" is enabled'
+      - 'Fixed: Black screen on vertical layout trailers when no video is available and "Use background image as trailer fallback" is enabled'
+      - 'Changed: Window animations'
+      - 'Changed: Reorganized Theme Options by moving settings from the "Extras" section to "General Settings"'
+      - 'Changed: Updated Brazilian Portuguese localization'
+      - 'Theme Options/New: Age rating icons (Custom media path)'
+      - 'Theme Options/New: Cover icons (Custom media path)'
+      - 'Theme Options/New: Filter preset icons (Custom media path)'
+      - 'Theme Options/New: Library/platform icons (Custom media path)'
