@@ -303,3 +303,9 @@ Packages:
       - 'Theme Options/New: Show/hide statistics button (Top Bar)'
       - 'Theme Options/New: Show/hide network status icon (Top Bar)'
       - 'Theme Options/New: Show/hide filtered games count icon (Top Bar)'
+  - Version: 1.3.0
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-05-14
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.0/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_0.pthm
+    Changelog:
+      - 'Fixed overlapping text and icon in custom filter presets'
