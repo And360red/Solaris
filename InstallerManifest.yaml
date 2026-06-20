@@ -309,3 +309,35 @@ Packages:
     PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.0/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_0.pthm
     Changelog:
       - 'Fixed overlapping text and icon in custom filter presets'
+  - Version: 1.3.1
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-06-20
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.1/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_1.pthm
+    Changelog:
+      - 'Added: Background Change extension support'
+      - 'Fixed: Custom filter bar icon opacity'
+      - 'Fixed: High GPU usage while a game is running'
+      - 'Fixed: Navigation focus when returning to Playnite on the Play/Executing button'
+      - 'Fixed: Navigation focus between the game list and filter bar'
+      - 'Changed: Window animations'
+      - 'Changed: Minimum required Theme Options version is now v0.33'
+      - 'Changed: Navigation focus from the bottom bar now redirects to the avatar icon in the top bar'
+      - 'Playnite Achievements: Switched bindings from LegacyScore to CollectorScore (Level / Rank / Score) (by @Ruprous)'
+      - 'Playnite Achievements: Added PrestigeScore (Level / Rank / Score) (by @Ruprous)'
+      - 'Playnite Achievements: Reorganized the grid to accommodate PrestigeScore'
+      - 'Playnite Achievements: Added Dynamic List support'
+      - 'Playnite Achievements: Added a ComboBox to switch between Dynamic List and preset lists'
+      - 'Playnite Achievements: Added a sorting ComboBox for Dynamic List (Last Unlock / Last Played / Unlocked Count)'
+      - 'Playnite Achievements: Added a sort order ComboBox for Dynamic List (Ascending / Descending)'
+      - 'Playnite Achievements: Moved refresh options to a ComboBox'
+      - 'Playnite Achievements: Added support for HoYoverse game lists'
+      - 'Playnite Achievements: Removed the black border/background from achievement icons '
+      - 'Playnite Achievements: Removed corner radius from achievement icons'
+      - 'Playnite Achievements: Improved achievement icon image quality'
+      - 'Playnite Achievements: Fixed the default achievement list filter'
+      - 'Playnite Achievements: Fixed achievement page game list scrolling when using triggers '
+      - 'ThemeOptions/Added: Cover shine animation'
+      - 'ThemeOptions/Added: Show on game list covers (Background Changer)'
+      - 'ThemeOptions/Added: Show on game details cover (Background Changer)'
+      - 'ThemeOptions/Added: Show on background image (Background Changer)'
+      - 'ThemeOptions/Removed: 16:10 Support (the theme now automatically detects 16:10 aspect ratios)'
