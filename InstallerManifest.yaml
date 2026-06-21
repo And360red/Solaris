@@ -341,3 +341,11 @@ Packages:
       - 'ThemeOptions/Added: Show on game details cover (Background Changer)'
       - 'ThemeOptions/Added: Show on background image (Background Changer)'
       - 'ThemeOptions/Removed: 16:10 Support (the theme now automatically detects 16:10 aspect ratios)'
+  - Version: 1.3.2
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-06-20
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.2/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_2.pthm
+    Changelog:
+      - 'Playnite Achievements: Added new filters for the Dynamic List (Name, Provider, Progress, Achievement Count)'
+      - 'ThemeOptions: Reverted minimum required version to v0.32 (v0.33 is not available in the Playnite update)'
+      - 'ThemeOptions/Added: Show glow on achievement icons (Playnite Achievements)'
