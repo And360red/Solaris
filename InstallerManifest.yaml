@@ -349,3 +349,22 @@ Packages:
       - 'Playnite Achievements: Added new filters for the Dynamic List (Name, Provider, Progress, Achievement Count)'
       - 'ThemeOptions: Reverted minimum required version to v0.32 (v0.33 is not available in the Playnite update)'
       - 'ThemeOptions/Added: Show glow on achievement icons (Playnite Achievements)'
+  - Version: 1.3.3
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-07-25
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.3/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_3.pthm
+    Changelog:
+      - 'Added: Entry animations for the Screenshot Utilities and Screenshot Visualizer screens'
+      - 'Fixed: Intro and lock screen animations'
+      - 'Fixed: Filter preset scrolling in 16:10 aspect ratios'
+      - 'Fixed: Trailer animations, reduced loading delay, and various fixes'
+      - 'Fixed: Click detection on the Lock Screen unlock button, Change View button, and Guide Button icons'
+      - 'Theme Options / New: Prioritize icons from the "source" field'
+      - 'Theme Options / New: Press (A/X) to skip the intro'
+      - 'Theme Options / New: Show/Hide background image (vertical layout)'
+      - 'Theme Options / New:  Show/Hide logo (vertical layout)'
+      - 'Theme Options / New: Show/Hide trailer (vertical layout)'
+      - 'Theme Options / Removed: Lock screen video resolution (no longer required with Custom Media Path)'
+      - 'Theme Options / Removed: Swap trailer for background image (superseded by the new options)'
+      - 'Theme Options / Removed: Use background image as trailer fallback (superseded by the new options)'
+      - 'Updated: Brazilian Portuguese, Chinese, and French localization'
