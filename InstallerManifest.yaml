@@ -375,3 +375,31 @@ Packages:
     Changelog:
       - 'Fixed: UniPlaySong integration not working'
       - 'ThemeOptions/New: Hide trailer box when unavailable (Game Details)'
+  - Version: 1.3.5
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-09-01
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.5/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_5.pthm
+    Changelog:
+      - 'Added: New UI and window animations'
+      - 'Added: Initial Ultrawide (21:9) support'
+      - 'Added: Re-added SuccessStory plugin support'
+      - 'Fixed: Minor alignment issues across the UI'
+      - 'Fixed: Game list performance issues'
+      - 'Fixed: Background Changer integration'
+      - 'Changed: Various improvements and adjustments to all animations'
+      - 'Changed: Replaced AnikiHelper with MoData for displaying storage information on the Statistics screen'
+      - 'Theme Option/Note: Several options have been inverted. For example, "Disable trailer" has been replaced with "Show trailer". Depending on your current configuration, you may need to enable or disable some options after updating.'
+      - 'Theme Option/New: Windows display scaling (used to fix scaling issues)'
+      - 'Theme Option/New: Custom filter preset background image (allows you to add a background image for each filter preset)'
+      - 'Theme Option/New: Show/hide Game Status window (screen displayed when launching a game)'
+      - 'Theme Option/New: Show/hide menu and window animations'
+      - 'Theme Option/New: Show/hide selection border animation'
+      - 'Theme Option/New: Trailer start delay (Horizontal Layout)'
+      - 'Theme Option/New: Darken background image when logo is enabled (Game Details panel in Vertical Layout)'
+      - 'Theme Option/New: Trailer start delay (Game Details panel in Vertical Layout)'
+      - 'Theme Option/New: Resize background image to Steam Hero format (alternative to 16:9 Background Image)'
+      - 'Theme Option/New: Dynamic filter preset background color'
+      - 'Theme Option/New: Trailer start delay (Game Details)'
+      - 'Theme Option/New: Fullscreen trailer start delay (Game Details)'
+      - 'Theme Options/Removed: Performance mode (no longer required)'
+      - 'Theme Options/Removed: Show on background image (Background Changer: no longer works with the latest plugin update)'
