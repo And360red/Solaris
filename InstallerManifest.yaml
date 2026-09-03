@@ -403,3 +403,15 @@ Packages:
       - 'Theme Option/New: Fullscreen trailer start delay (Game Details)'
       - 'Theme Options/Removed: Performance mode (no longer required)'
       - 'Theme Options/Removed: Show on background image (Background Changer: no longer works with the latest plugin update)'
+  - Version: 1.3.6
+    RequiredApiVersion: 2.9.0
+    ReleaseDate: 2026-09-03
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.6/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_6.pthm
+    Changelog:
+      - 'Fixed: Some buttons not playing sounds'
+      - 'Fixed: Mouse interaction in the Game Details panel'
+      - 'Fixed: Alignment of the trailer buttons in Game Details'
+      - 'Fixed: Storage information display on the Statistics screen'
+      - 'Fixed: CheckLocalizations border appearing when the plugin is not installed '
+      - 'Theme Options/New: Steam Hero background fade'
+      - 'Theme Options/New: Steam Hero background curvature'
