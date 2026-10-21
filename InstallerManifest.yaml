@@ -465,3 +465,13 @@ Packages:
       - 'Theme Options/Removed: Show right game info (no longer needed, as each element can now be shown or hidden individually)'
       - 'Theme Options/Removed: Swap community score for critic score (scores can now be shown or hidden individually)'
       - 'Theme Options/Removed: Show description on the game info screen (the description is now always displayed)'
+  - Version: 1.3.8
+    RequiredApiVersion: 2.10.0
+    ReleaseDate: 2026-10-21
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.8/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_8.pthm
+    Changelog:
+      - 'Fixed: Minor design fixes'
+      - 'Fixed: "Top Bar Always Visible" option'
+      - 'Theme Options/New: Show/hide achievement badges and count (Horizontal Layout / Game Details View)'
+      - 'Theme Options/New: Show/hide content background (Horizontal Layout)'
+      - 'Theme Options/New: Darken content background (Horizontal Layout)'
