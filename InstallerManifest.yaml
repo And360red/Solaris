@@ -475,3 +475,17 @@ Packages:
       - 'Theme Options/New: Show/hide achievement badges and count (Horizontal Layout / Game Details View)'
       - 'Theme Options/New: Show/hide content background (Horizontal Layout)'
       - 'Theme Options/New: Darken content background (Horizontal Layout)'
+  - Version: 1.3.9
+    RequiredApiVersion: 2.10.0
+    ReleaseDate: 2026-10-31
+    PackageUrl: https://github.com/And360red/Solaris/releases/download/v1.3.9/Solaris_b6e50d04-24ae-4ecd-bd3a-080367930992_1_3_9.pthm
+    Changelog:
+      - 'Added/Playnite Achievements: New filters for the Overview and Game screens, now organized into ComboBoxes'
+      - 'Added/Playnite Achievements: Added Game Jolt, Riot Games, and FFXIV game lists to the preset list'
+      - 'Added/Playnite Achievements: Added a quick-access panel for customizing the Overview and Game screens'
+      - 'Theme Options/New: Replace trophy icon with collection score (Top Bar)'
+      - 'Theme Options/New: Invert mute button position (Extra Metadata Loader / Horizontal Layout)'
+      - 'Theme Options/New: Limit achievement list to 5 rows (Playnite Achievements)'
+      - 'Theme Options/New: Show collection score and prestige panel (Playnite Achievements)'
+      - 'Theme Options/New: Show additional information in achievement list (Playnite Achievements)'
+      - 'Theme Options/New: Invert currently playing notification position (UniPlaySong)'
